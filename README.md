@@ -6,4 +6,4 @@ resultados de un backtest de técnicas de análisis técnico. Se generan automá
 Material educativo: los resultados son simulados con datos gratuitos y no son
 asesoramiento financiero.
 
-Actualizado: 2026-10-21
+Actualizado: 2026-10-24
